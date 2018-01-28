@@ -498,7 +498,7 @@ BigAlien = function () {
   this.collidesWith = ["asteroid", "ship", "bullet"];
 
   this.bridgesH = false;
-
+//testing
   this.bullets = [];
   this.delayBeforeBullet = 0;
 
