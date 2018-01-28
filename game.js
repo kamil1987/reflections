@@ -508,7 +508,7 @@ BigAlien = function () {
 
   this.setup = function () {
     this.newPosition();
-
+//new comment
     for (var i = 0; i < 3; i++) {
       var bull = new AlienBullet();
       this.bullets.push(bull);
